@@ -1,4 +1,4 @@
-## Objdect Detection using Cognitive Services
+## Object Detection using Cognitive Services
 
 0. Have your Microsoft Account Ready
 1. Sign in to [Microsoft Azure Notebooks](https://notebooks.azure.com/)
