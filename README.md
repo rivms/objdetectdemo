@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Building and Object Detection Model
+
+0. Have your Microsoft Account Ready
+1. Sign in to [Microsoft Azure Notebooks](https://notebooks.azure.com/)
+2. Sign in to [Custom Vision Service](https://www.customvision.ai)
+
+
 
 You can use the [editor on GitHub](https://github.com/rivms/objdetectdemo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
